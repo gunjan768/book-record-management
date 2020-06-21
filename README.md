@@ -1,2 +1,1 @@
-# book-record-management
-first Basic php project
+chat-app using Ajax requests
